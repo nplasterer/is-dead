@@ -1,7 +1,7 @@
 # Last Will And testament 
-## Yaroslav Shirokov
+## Michael Skalnik
 
-I, Yaroslav Shirokov, of San Francisco, California, remove my former Wills and Codicils and declare this to be my Last Will and Testament.
+I, Michael Skalnik, of San Francisco, California, remove my former Wills and Codicils and declare this to be my Last Will and Testament.
 
 ### Payment of Debts and Expenses
 
@@ -9,7 +9,7 @@ Default on any debt that is possible.
 
 ### Everything else
 
-Bury me with my money.
+All my bicycles go to Jenn Chan, since she's can ride them.
 
 ### Pull Requests
 
