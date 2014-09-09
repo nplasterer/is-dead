@@ -9,7 +9,7 @@ Default on any debt that is possible.
 
 ### Everything else
 
-All my bicycles go to Jenn Chan, since she's can ride them.
+All my bicycles go to Jenn Chan, since she can ride them.
 
 ### Pull Requests
 
