@@ -9,8 +9,8 @@ Default on any debt that is possible.
 
 ### Everything else
 
-All my bicycles go to Jenn Chan, since she can ride them.
-My pet cat, Giro (Giraud), will be taken care of by Jenn Chan. If Jenn is unable or unwilling to take care of said kitty cat, Lydia Katsamberis should take care of her.
+* All my bicycles go to Jenn Chan, since she can ride them.
+* My pet cat, Giro (Giraud), will be taken care of by Jenn Chan. If Jenn is unable or unwilling to take care of said kitty cat, Lydia Katsamberis should take care of her.
 
 ### Pull Requests
 
