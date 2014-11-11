@@ -1,4 +1,4 @@
-# Last Will And testament 
+# Last Will and Testament
 ## Michael Skalnik
 
 I, Michael Skalnik, of San Francisco, California, remove my former Wills and Codicils and declare this to be my Last Will and Testament.
